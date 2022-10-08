@@ -1,0 +1,1 @@
+print("an algorithm is a set of instruction which describe the steps to be foolowed to get the solution and using the data instruction")

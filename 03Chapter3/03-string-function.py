@@ -1,0 +1,11 @@
+story = "an algorithms is a set of instruction which describe the steps to be followed to get the solution of a problems"
+print(len(story))
+print(story.endswith("problems"))
+print(story.count("A"))
+print(story.count("a"))
+print(story.count("of"))
+print(story.capitalize())
+print(story.find("instruction"))
+print(story.find("an"))
+print(story.find("is"))
+print(story.replace("algorithms", "data analysis"))
